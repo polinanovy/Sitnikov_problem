@@ -4,10 +4,10 @@ Solves and plots the Poincare map for the Sitnikov's problem
 The program implements [Sitnikov's problem](https://en.wikipedia.org/wiki/Sitnikov_problem) based on the theory from the workbook [Celestial Dynamics: Chaoticity and Dynamics of Celestial Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527651856)
 
 ## Files
-- **INPUT.json** -- file with input parameters
-- **mod.py** -- module-file with all needed functions for the main program
-- **run.py** -- main program
-- **e_0.01_example.png**, **e_0.01_zoom_example.png**, **e_0.11_example.png** -- example plots for different eccentricity and scales
+- **INPUT.json** - file with input parameters
+- **mod.py** - module-file with all needed functions for the main program
+- **run.py** - main program
+- **e_0.01_example.png**, **e_0.01_zoom_example.png**, **e_0.11_example.png** - example plots for different eccentricity and scales
 
 To rin the program, you can use the command ```python3 run.py```
 
