@@ -9,7 +9,7 @@ The program implements [Sitnikov's problem](https://en.wikipedia.org/wiki/Sitnik
 - **run.py** - main program
 - **e_0.01_example.png**, **e_0.01_zoom_example.png**, **e_0.11_example.png** - example plots for different eccentricity and scales
 
-To rin the program, you can use the command ```python3 run.py```
+To run the program, you can use the command ```python3 run.py```
 
 ## Required python packages
 - json
